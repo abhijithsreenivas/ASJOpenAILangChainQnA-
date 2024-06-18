@@ -45,7 +45,7 @@ const query = async () => {
       {
         role: 'assistant',
         content:
-          'You are my assistant. Your task is to learn the documents sent to you. I will ask questions about it. The documents are about flight reservations on Singapore Airlines. When I ask a question and I say "I", that always refer to me, the one who asks the question.',
+          'You are my assistant. Your task is to learn the documents sent to you. I will ask questions about it. The documents are about Apple watch Catalog. When I ask a question and I say "I", that always refer to me, the one who asks the question.',
       },
       {
         role: 'user',
